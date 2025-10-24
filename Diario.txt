@@ -1,2 +1,3 @@
-Querido diario: Hoy fue un dia estresante.
+Querido diario: Hoy fue un dia tranquilo.
 Querido diario: aprendí a usar git hoy.
+Querido diario: reflexioné sobre git hoy
