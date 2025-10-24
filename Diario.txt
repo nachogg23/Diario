@@ -1,3 +1,7 @@
 Querido diario: Hoy fue un dia tranquilo.
 Querido diario: aprendí a usar git hoy.
+<<<<<<< HEAD
 Querido diario: reflexioné sobre git hoy
+=======
+Querido diario: me peleé con git hoy
+>>>>>>> 41e5ab11e3320eae9e5b305992ca51b5e096def7
